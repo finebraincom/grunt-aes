@@ -1,0 +1,15 @@
+{
+  "name": "grunt-aes",
+  "version": "1.0.0",
+  "description": "Grunt tas for encryption/decryption with AES algorythm",
+  "main": "lib/grunt-aes.js",
+  "repository": "https://github.com/finebraincom/grunt-aes.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Iurii Kyian <iurii.kyian@insights.md>",
+  "license": "MIT"
+}
